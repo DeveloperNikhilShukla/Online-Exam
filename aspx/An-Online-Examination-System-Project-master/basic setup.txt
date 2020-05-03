@@ -1,0 +1,2 @@
+Change Connection String According to your system then Extract database in your SSMS.
+or contact 9451111336 @nikhil shukla
